@@ -1,1 +1,1 @@
-this project is based on a student managment Dashboard.The dashboard show the Content of Total NUmber of students,Total Active students,Total Graduates.In which admin can add new student , Delete the existing student ,pass the student.
+This project is based on a student managment Dashboard.The dashboard show the Content of Total NUmber of students,Total Active students,Total Graduates.In which admin can add new student , Delete the existing student ,pass the student.
